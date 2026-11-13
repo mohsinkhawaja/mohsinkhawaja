@@ -6,7 +6,7 @@ Based in Pakistan · Associate QA Engineer at **Invotyx**
 
 I combine professional software quality assurance experience with hands-on development work in Python, Flutter, and APIs. I am building my focus around practical browser automation, API integration, and reliable application delivery.
 
-[LinkedIn](https://www.linkedin.com/in/mohsin-ali-rashid-0b5561242/) · [Freelance services on Upwork](https://www.upwork.com/freelancers/~018fdf0dabdb82f352)
+[Portfolio](https://mohsin-ali-rashid-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohsin-ali-rashid-0b5561242/) · [Freelance services on Upwork](https://www.upwork.com/freelancers/~018fdf0dabdb82f352)
 
 ## What I work on
 
@@ -44,3 +44,4 @@ I am interested in clearly scoped Python automation, API integration, Flutter im
 
 - [Discuss freelance work on Upwork](https://www.upwork.com/freelancers/~018fdf0dabdb82f352)
 - [Connect on LinkedIn](https://www.linkedin.com/in/mohsin-ali-rashid-0b5561242/)
+
